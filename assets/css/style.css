@@ -4328,7 +4328,7 @@ hr {
 
 /* line 86, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_application.scss */
 .application-area form.search-box .input-form {
-  width: 25%;
+  width: 18%;
   position: relative;
   overflow: hidden;
 }
@@ -4336,7 +4336,7 @@ hr {
 @media only screen and (min-width: 576px) and (max-width: 767px) {
   /* line 86, ../../../sponDon TI/Running Project/259.Finance_HTML/assets/scss/_application.scss */
   .application-area form.search-box .input-form {
-    width: 50%;
+    width: 30%;
   }
 }
 
